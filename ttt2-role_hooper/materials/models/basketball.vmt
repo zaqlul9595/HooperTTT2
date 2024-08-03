@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	$basetexture "models/basketball"
+	$bumpmap "models/basketball_n"
+	$surfaceprop Rubbertire
+
+	$model 1
+}
